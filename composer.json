@@ -20,7 +20,7 @@
   ],
   "require": {
     "php": ">=7.1.33",
-    "guzzlehttp/guzzle": "^6.3"
+    "guzzlehttp/guzzle": ">=6.3"
   },
   "require-dev": {
     "roave/security-advisories": "dev-latest"
