@@ -11,7 +11,7 @@ SDK для удобного взаимодействия с Yandex Metrika API �
 ### С помощью Composer
 
 ```bash
-$ composer require webcrea/yandex-metrika-sdk
+$ composer require thebearcod/yandex-metrika-sdk
 ```
 
 ### Получение токена
